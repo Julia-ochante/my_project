@@ -1,6 +1,3 @@
-# my_project
-My spring 7 project
-
 # Vehículo Análisis Web App
 
 ## Descripción
